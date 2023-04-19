@@ -19,7 +19,7 @@ def create_all_decks():
         'temps::exercice'
     ]
     noms = ['nom', 'nom::animaux', 'nom::plantes', 'nom::vehicules', 'nom::professions', 'nom::batiments',
-            'nom::famille', 'nom::nourriture', 'nom::sport', 'nom::maison']
+            'nom::famille', 'nom::nourriture', 'nom::maison']
     # adjectifs = ['adjectif', 'adjectif::qualificatif', 'adjectif::demonstratif', 'adjectif::']
     adverbes = ['adverbe', 'adverbe::maniere', 'adverbe::frequence', 'adverbe::degre']
     
@@ -28,12 +28,24 @@ def create_all_decks():
         createDeck(f"{'english::' if name != 'english' else ''}{name}")
         
         
-def createDeck(name):
+def create_deck(name):
     payload = {'action': 'createDeck', 'version': 6, 'params': {'deck': name}}
     response = requests.post(url, headers=headers, data=json.dumps(payload))
     if response.status_code == 200:
         print(f"Le paquet de carte '{name}' à bien été crée.")
     else:
         print(f"[ERROR] Le paquet de carte '{name}' n'as pas été crée.")
+        
+
+def get_decks_names():
+    payload = {"action": "deckNames", "version": 6}
+    response = requests.post(url, headers=headers, data=json.dumps(payload))
+    return response.json()['result']
     
+    
+    
+if __name__ == "__main__":
+    r = get_decks_names()
+    for name in r:
+        print(name)
     
