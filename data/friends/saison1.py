@@ -47,10 +47,102 @@ friends_saison1_ep1 = {
         ("lens", "lentille")
     ]
 }
+friends_saison1_ep4 = {
+    "deck": "english::friends::saison1::ep4",
+    "basic_cards": [],
+    "reversed_cards": [
+        ("to nod", "acquiescer"),
+        ("to nod off", "s’endormir"),
+        ("omnipotent", "tout puissant, pouvoir"),
+        ("deaf", "sourd"),
+        ("foam", "mousse"),
+        ("to wipe", "essuyer"),
+        ("to steam", "cuir à la vapeur"),
+        ("apron", "tablier"),
+        ("I'm a duplex.", "on est deux, enceinte ou l’un assis sur lautre"),
+        ("to whine", "se plaindre"),
+        ("altar", "autel"),
+        ("blobby", "amorphe, informe"),
+        ("a slumber party", "une soirée pyjama"),
+        ("to slumber", "dormir paisiblement"),
+        ("tweezer", "pince à épiler"),
+        ("give up", "abandonner"),
+        ("dented", "cabossé"),
+        ("bonehead", "crétin"),
+        ("napping", "faire la sieste"),
+        ("draw him out.", "le faire sortir"),
+        ("preppy", "élégant"),
+        ("(the) glow", "briller, lueur"),
+        ("my puck", "rondelle (galet de hokey contexte)"),
+    ]
+}
+friends_saison1_ep5 = {
+    "deck": "english::friends::saison1::ep5",
+    "basic_cards": [],
+    "reversed_cards": [
+        ("a bra", "un soutien-gorge"),
+        ("right out", "dès la sortie"),
+        ("to come close", "se rapprocher"),
+        ("breast", "sein"),
+        ("mean thing", "chose méchante"),
+        ("to hand", "remettre à la main"),
+        ("awkward", "maladroit, génânt"),
+        ("gang up", "se liguer, se rassembler"),
+        ("hunger strike", "grève de la faim"),
+        ("nutty", "noisette"),
+        ("a pie", "une tarte"),
+        ("scrunchy", "contrarié, faĉhé, tendu"),
+        ("he burns me up", "décrire un fort sentiment de colère ou de frustration envers qqlqn. Rarement pour décrire une forte attirance sexuelle"),
+        ("not up to", "pas à la hauteur"),
+        ("choruses", "coeurs (chant)"),
+        ("to dump", "(rompre avec qqln, dverser/jeter/abondonner sans considération"),
+        ("agrees with her", "lui convient (context)"),
+        ("eager", "désireux"),
+        ("You don't say.", "répondre à une information évident de manière ironique"),
+        ("dryer", "sèche linge"),
+        ("fluffy", "duveteux, mouelleux"),
+        ("sevenish", "vers 7h"),
+        ("to belch", "roter"),
+        ("to lay", "poser, coucher"),
+        ("a tile", "tuile, carrelage"),
+        ("underwear", "sous vetement"),
+        ("softener", "adoucissant"),
+        ("run over", "renverser, écraser, passer rapidement sur qqlch"),
+        ("puppy", "chiot"),
+        ("awful", "affreux"),
+        ("break-up", "rompre"),
+        ("a latte", "café au lait"),
+        ("blow off", "poser un lapin, ne pas honorer un engagement"),
+        ("blow", "souffler, exploser soudainement, gâcher."),
+        ("the suds", "la mousse"),
+        ("I can't even send back soup.", "se sentir incapable et impuissant face à une situtiation"),
+        ("tough", "dur, résistant, robuste"),
+        ("spaz", "qui agit de manière maladroite"),
+        ("gentle", "doux"),
+        ("panty", "culotte"),
+        ("weasel", "belette"),
+        ("squirrel", "écureil"),
+        ("nibbly", "grignotage"),
+        ("not gonna last", "ne durera pas"),
+        ("terrific", "grande admiration, satisfaction"),
+        ("It's just like pulling off a Band-aid", "quelques chose doit être fait rapidement et sans hésitation"),
+        ("Be wound up", "être tendu, nerveux, anxieux"),
+        ("Something went wrong with Underdog", "un certain plan à mal tourner"),
+        ("jammies", "pyjamas"),
+        ("brand new", "tout neuf"),
+        ("a neat", "qqlch de soigné, de bon"),
+        ("to rip", "déchirer"),
+        ("to grieve", "etre en deuil, pleurer la perte de qqln"),
+        ("ought to", "devrais"),
+        ("no snap in his turtle for two years", "pas de relation sexuelle depuis 2 ans")
+    ]
+}
 
 
 all_deck_friends_saison1 = [
-    friends_saison1_ep1
+    friends_saison1_ep1,
+    friends_saison1_ep4,
+    friends_saison1_ep5
 ]
 
 
