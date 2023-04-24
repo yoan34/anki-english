@@ -50,3 +50,10 @@ lesson_B2_could_have_would_have_should_have_exercise_cards = {
 
     ],
 }
+
+all_B2_lessons = [
+    lesson_B2_could_have_would_have_should_have_presentation_cards,
+    lesson_B2_could_have_would_have_should_have_exercise_cards,
+    
+    
+]
