@@ -18,7 +18,6 @@ lesson_B2_could_have_would_have_should_have_presentation_cards = {
         
         ("Which modal + have is use to imagine a result (if something had been different in the past)?", "Would have (If we had arrived earlier, we would have caught the bus.)"),
         ("Which modal + have is use to epress more certainty about the result than 'could have'?", "Would have (If I had worked harder, I would have gotten a promotion)"),
-        ("", ""),
     ],
     "reversed_cards": [
     ],
@@ -51,9 +50,104 @@ lesson_B2_could_have_would_have_should_have_exercise_cards = {
     ],
 }
 
+lesson_B2_must_cant_should_presentation_cards = {
+    "deck": "english::lessons::B2::must_cant_should::presentation",
+    "basic_cards": [
+        ("What is a modal??", "A modal is an auxiliary verb and normally needs another verb to function"),
+        ("What is the function of a modal??", "The function of a modal is to modify a verb with extra meaning"),
+
+        ("Which modal is use when we feel sure that something is true or it's the only realistic possibility?", "Must (This must be her house. I can see her car in the garage.)"),
+        ("Which modal is use to express obligation or duty?", "Must (She must pass the English exam. She cannot graduate without it.)"),
+        ("Which modal is use to emphasize necessity?", "Must (You must study before the exam if you want to get a good grade.)"),
+        ("Which modal is use to give a strong recommendation?", "Must (The cupcakes here are delicious. You must try one!)"),
+
+        ("Which modal is used when we feel sure that something is not possible?", "Can't (She can't know about the complaint against her. She seems happy.)"),
+
+        ("Which modal is use to give advice, a recommendation or a suggestion?", "Should (You should see the new Star Wars movie. It’s great!)"),
+        ("Which modal is use to express that a situation is likely in the present or in the future. This is a type of expectation or prediction.?", "Should (It should be sunny tomorrow.)"),
+        ("Which modal is use to express an obligation that is not as strong as 'must'?", "Should (He should drive more carefully)"),
+
+        ("Which modal  is a stronger way in which to say 'should.' It is usually used in written or formal English. It can be used to describe correctness or duty.?", "Should (She ought to slow down, the road is icy!)"),
+    ],
+    "reversed_cards": [
+    ],
+}
+lesson_B2_must_cant_should_exercise_cards = {
+    "deck": "english::lessons::B2::must_cant_should::exercise",
+    "basic_cards": [
+        ("We should win the race. 1 - are supposed to. 2 - able to", "are supposed to"),
+        ("I can swim. 1 - am supposed to. 2 - am able to", "am able to"),
+        ("You must meet my best friend. 1 - have to. 2 - are supposed to", "have to"),
+        ("He should be in bed by now. 1 - is supposed to. 2 - has to", "is supposed to"),
+        ("I must get up early. 1 - have to. 2 - am able to", "have to"),
+        ("conjugate the following verb or substitude. - She must _ (must) stay at school yesterday afternoon", "had to"),
+        ("Each player _ be fit and healthy.", "should"),
+        ("The teams _ not have more than 11 players on the field during a match - it is against the rules.", "must"),
+        ("Players _ not wear anything which might injure another player.", "must"),
+        ("Players _ not touch the ball with their hands.", "must"),
+        ("Substituted players _ not return to the game.", "can"),
+
+    ],
+    "reversed_cards": [
+
+    ],
+}
+
+lesson_B2_expressions_relatives_aux_relations_presentation_cards = {
+    "deck": "english::lessons::B2::expressions_relatives_aux_relations::presentation",
+    "basic_cards": [
+        ("To go back years", "être amis depuis longtemps"),
+        ("To keep in touch with someone", "Rester en contact avec quelqu'un"),
+        ("To lose touch with someone", "Perdre le contact avec quelqu'un"),
+        ("To get to know someone", "Apprendre à connaitre quelqu'un"),
+        ("To hit it off with someone", "Bien s'entendre avec quelqu'un (au début d'une amitié)."),
+        ("To get on well with someone", "Bien s'entendre avec quelqu'un"),
+        ("To get on like a house on fire", "Devenir rapidement des amis très proches."),
+        ("To fall head over heels in love with someone", "Tomber raide dingue amoureux de quelqu'un"),
+        ("To settle down with someone", "S'installer avec quelqu'un"),
+        ("To breakup/split up with someone", "Se séparer de quelqu'un"),
+
+    ],
+    "reversed_cards": [
+    ],
+}
+lesson_B2_expressions_relatives_aux_relations_exercise_cards = {
+    "deck": "english::lessons::B2::expressions_relatives_aux_relations::exercise",
+    "basic_cards": [
+        ("To enjoy a person’s company. 1 - To get on well with someone. 2 - To go back years. 3 - To lose touch with someone", "To get on well with someone"),
+        ("To really enjoy a person’s company. 1 - To get on like a house on fire. 2 - To settle down with someone. 3 - To break up with someone", "To get on like a house on fire"),
+        ("To have an instant connection and get along well with a person. 1 - To go back years. 2 - To hit it off with someone. 3 - To settle down with someone", "To hit it off with someone"),
+        ("To have a romantic interest in a person very quickly and intensely. 1 - To keep in touch with someone. 2 - To get to know someone. 3 - To fall head over heels in love with someone", "To fall head over heels in love with someone"),
+        ("To establish a household and long-term plans with a person. 1 - To break up with someone. 2 - To get on like a house on fire. 3 - To settle down with someone", "To settle down with someone"),
+        ("To know a person for a long time. 1 - To go back years. 2 - To hit it off with someone. 3 - To get on well with someone", "To go back years"),
+        ("To stay in contact. 1 - To fall head over heels in love with someone. 2 - To break up with someone. 3 - To keep in touch with someone", "To keep in touch with someone"),
+        ("To no longer be in contact with a person. 1 - To lose touch with someone. 2 - To fall head over heels in love with someone. 3 - To get on well with someone", "To lose touch with someone"),
+        ("To end a relationship. 1 - To settle down with someone. 2 - To go back years. 3 - To break up with someone", "To end a relationship"),
+        ("To become acquainted with a new person. 1 - To lose touch with someone. 2 - To get on well with someone. 3 - To get to know someone", "To get to know someone"),
+        ("To have a romantic interest in a person very quickly and intensely", "to fall head over heels in love with someone",),
+        ("To establish a household and long-term plans with a person", "to settle down with someone"),
+        ("To end a relationship", "to break up with someone"),
+        ("To become acquainted with a new person", "to get to know someone"),
+        ("To have an instant connection and get along well with a person", "to hit it off with someone"),
+        ("To enjoy a person’s company", "to get on well with someone"),
+        ("To really enjoy a person’s company", "to get on like a house on fire"),
+        ("To know a person for a long time", "to go back years"),
+        ("To stay in contact", "to keep in touch with someone"),
+        ("To no longer be in contact with a person", "to lose touch with someone"),
+
+    ],
+    "reversed_cards": [
+
+    ],
+}
+
 all_B2_lessons = [
     lesson_B2_could_have_would_have_should_have_presentation_cards,
     lesson_B2_could_have_would_have_should_have_exercise_cards,
     
-    
+    lesson_B2_must_cant_should_presentation_cards,
+    lesson_B2_must_cant_should_exercise_cards,
+
+    lesson_B2_expressions_relatives_aux_relations_presentation_cards,
+    lesson_B2_expressions_relatives_aux_relations_exercise_cards,
 ]
