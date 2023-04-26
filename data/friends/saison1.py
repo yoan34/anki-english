@@ -76,6 +76,7 @@ friends_saison1_ep4 = {
         ("my puck", "rondelle (galet de hokey contexte)"),
     ]
 }
+
 friends_saison1_ep5 = {
     "deck": "english::friends::saison1::ep5",
     "basic_cards": [],
@@ -138,11 +139,55 @@ friends_saison1_ep5 = {
     ]
 }
 
+friends_saison1_ep6 = {
+    "deck": "english::friends::saison1::ep6",
+    "basic_cards": [],
+    "reversed_cards": [
+        ("to spot", "repérer, détecter"),
+        ("impending", "imminent"),
+        ("doom", "destiné, condamnation"),
+        ("to peel", "éplucher"),
+        ("the usher", "l’huissier, celui qui accueille dans un spectacle"),
+        ("a widow", "une veuve"),
+        ("this is twisted", "c’est tordu, vicieux"),
+        ("to mind", "faire attention à, prendre soin de, importer"),
+        ("forth", "en avant"),
+        ("vacuum", "aspirateur"),
+        ("bristles", "poils, brosses"),
+        ("ottoman", "siege repose pied"),
+        ("to fan out", "se répandre, disperser"),
+        ("to scratch", "gratter, griffer"),
+        ("a kook", "un idiot"),
+        ("gal", "fille"),
+        ("madcap", "ecervelé"),
+        ("coaster", "dessous de verre"),
+        ("a bead", "une perle"),
+        ("to inch", "en pouce"),
+        ("out of order", "ne pas être dans la norme"),
+        ("butt", "extrémité objet, fesse"),
+        ("to struggle", "lutter, combattre"),
+        ("to crack", "casser, forcer (trouver une solution difficile)"),
+        ("moisturizer", "crème hydratante"),
+        ("to borrow", "emprunter"),
+        ("a resentment", "une rancoeur, une animosité"),
+        ("to scrub", "frotter"),
+        ("to clench", "serrer, contracter"),
+        ("desperation", "désespoir"),
+        ("crappy", "merdique"),
+        ("to blow", "souffler, gacher, rater"),
+        ("to strew", "dispersé, éparpillé"),
+        ("reckless", "imprudente, insouciant"),
+        ("haphazard", "aléatoire, imprévisible"),
+    ]
+}
+
+
 
 all_deck_friends_saison1 = [
     friends_saison1_ep1,
     friends_saison1_ep4,
-    friends_saison1_ep5
+    friends_saison1_ep5,
+    friends_saison1_ep6
 ]
 
 
